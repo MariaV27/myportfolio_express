@@ -29,12 +29,4 @@ function buildElements(dataRedux) {
 });
 });
 
- var owl = $("#owl-demo");
  
-  owl.owlCarousel({
-    navigation : true,
-    singleItem : true,
-    transitionStyle : "fade"
-  });
- 
-});
