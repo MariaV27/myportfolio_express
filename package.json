@@ -1,0 +1,20 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "updated my_portfolio and used node js, express among other cool things",
+  "main": "portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaVintimilla/myportfolio_express.git"
+  },
+  "author": "maria vintimilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaVintimilla/myportfolio_express/issues"
+  },
+  "homepage": "https://github.com/MariaVintimilla/myportfolio_express#readme"
+}
