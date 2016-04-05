@@ -1,27 +1,4 @@
-#welcome{
-  color:pink;
-  
-}
 
-#h2{
-  color:pink;
-}
-
-#id{
-  color:pink;
-}
-
-.item:nth-child(1) {
-    background: #74C390;
-}
-
-.item:nth-child(2) {
-    background: #51BCE8;
-}
-
-.item:nth-child(3) {
-    background: #E46653;
-}
 body {
   background-color: #936c6c; 
   font-size: 20px;
@@ -31,4 +8,3 @@ body {
     background-image: url("https://www.facebook.com/photo.php?fbid=10206961213370551&l=fd0a34ea62"); 
  
 }  
-
